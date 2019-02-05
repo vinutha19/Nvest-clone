@@ -1,0 +1,1434 @@
+.secondHeaderSection{
+    text-align: center;
+    color: #1A2541;
+    font-size: 2em;
+}
+
+.tab1{
+    padding-bottom: 0.5rem !important;
+}
+
+.active1{
+    color: #172444;
+    border-bottom: 3px solid #172444;
+}
+
+.tab2{
+    padding-bottom: 0.5rem !important;
+}
+
+.active2{
+    color: #172444;
+    border-bottom: 3px solid #172444;
+}
+
+
+
+.btn-ghost{
+    background-color: #1A2541 !important;
+    color: #fff !important;
+}
+
+.videoSection iframe{
+    width: 100%;
+}
+
+.firstSliderText{
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: 700;
+}
+
+.firstSliderTextSec{
+    font-size: 1em;
+    text-align: center;
+    font-weight: 100;
+}
+
+.textContent{
+    padding: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border: 2px solid rgb(255, 255, 255, 0.6);
+    background-color: rgb(255, 255, 255, 0.6);
+    color:#172444;
+}
+
+.interestedText{
+    color: #fff;
+    font-weight: bold;
+    font-size: .8em;
+}
+
+.textPara{
+    visibility: hidden;
+}
+
+.contactUs{
+    background: #fff;
+    color: #172444;
+    width: 17%;
+    margin: 0 auto;
+    border-radius: 4px;
+    padding: .6rem;
+    text-decoration: none;
+}
+
+.contactUs a{
+    text-decoration: none;
+}
+
+.contactUs:hover{
+    text-decoration: none;
+}
+
+.copyRight{
+    color: #fff;
+}
+
+.copyRight a{
+    text-decoration: none;
+}
+
+.videoButton{
+    text-align: center;
+    transition: transform .8s;
+}
+
+.videoButton img{
+    width: 4%;
+}
+
+.videoButton:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+
+
+
+.videoButtonWrapper{
+    transition: transform .8s;
+}
+
+.videoButtonWrapper img{
+    /* width: 6%;
+    position: absolute;
+    top: 35%;
+    left: 18%; */
+
+    width: 17%;
+    position: absolute;
+    top: -11%;
+    left: 12.5%;
+    opacity: 0;
+}
+
+.videoButtonWrapper:hover {
+    -ms-transform: scale(0.2); /* IE 9 */
+    -webkit-transform: scale(0.2); /* Safari 3-8 */
+    transform: scale(0.2); 
+}
+
+
+.videoButtonWrapperSecond img{
+    /* width: 6%;
+    position: absolute;
+    top: 35%;
+    right:18%; */
+
+    width: 18%;
+    position: absolute;
+    top: -27%;
+    right: 12%;
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+.padding-top-section{
+    padding-top: 50px;
+}
+
+.secHeight{
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.marginBottomSec{
+    margin-bottom: 5rem;
+}
+
+.pdsSectionTopOne{
+    padding-top: 6rem;
+}
+
+.capitalSec{
+    color:white;
+    border-bottom: 1px solid #283b69; 
+    padding-bottom: 1.5rem;
+}
+
+.capitalSec small{
+    margin-top: .5rem;
+}
+
+.bottonSec{
+    background: #172444 !important;
+    color: #fff !important;
+}
+
+.socialIconWrapper{
+    width: 400px
+}
+
+.socialIconWrapperSection{
+    width: 400px;
+}
+
+.viewProjectBtn{
+    background: #172444;
+    color: #fff;
+    padding: .5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.viewProjectBtn:hover{
+    text-decoration: none;
+}
+
+.snapmoneySection{
+    display: inline-block;
+    width:calc((100% / 6) - 25px);
+    margin: 1rem;
+}
+
+.snapmoneyWrapper{
+    text-align: center;
+}
+
+.snapmoneySection img{
+    border-radius: 4px;
+    transition: all 0.5s;
+}
+
+.snapmoneySection img:hover{
+    box-shadow: 0 20px 60px -6px rgba(0,0,0,0.5);
+    -webkit-transform: translateY(-3px);
+    -moz-transform: translateY(-3px);
+    -ms-transform: translateY(-3px);
+    -o-transform: translateY(-3px);
+    transform: translateY(-3px);
+}
+
+.brandingSectionWraper{
+    text-align: center;
+}
+
+.brandingImageSection{
+    display: inline-block;
+}
+
+
+.nextVideoSection{
+    position: absolute !important;
+    z-index: 99;
+    bottom: 20%;
+    right: 24%;
+    margin-bottom: 0;
+    padding: 0px !important;
+}
+
+.nextVideoSectionSecond{
+    position: absolute !important;
+    z-index: 99;
+    bottom: 15%;
+    left: 24%;
+    margin-bottom: 0;
+    padding: 0px !important;
+}
+
+.downArrowSection{
+  font-size: 60px;
+  color: #172444
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.footerSectionWraper{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+.footerSectionGetinTouch{
+    padding-top: 0px !important;
+}
+
+.image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    bottom: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .containerSection:hover .image {
+    opacity: 0.3;
+    
+  }
+
+ .containerSection:hover{
+    background: linear-gradient(to bottom, #323438 0%, #3f434b 94%);
+    color: #fff;
+ }
+  
+  .containerSection:hover .middle {
+    opacity: 1;
+    
+  }
+  
+  .text {
+    background-color: #172444;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+
+
+  .backgroundImageSectionWrapper{
+    height: 68%;
+}
+
+
+
+
+
+
+
+
+
+
+.main-title{
+    color: #2d2d2d;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 0.7em 0;
+  }
+  
+  .imgOverlayEffect{
+    padding: 0em 0;
+    float: left;
+    width: 50%;
+  }
+  @media screen and (max-width: 640px){
+    .imgOverlayEffect{
+      display: block;
+      width: 100%;
+    }
+  }
+  
+  @media screen and (min-width: 900px){
+    .imgOverlayEffect{
+      width: 33.33333%;
+    }
+  }
+  
+  .imgOverlayEffect .title{
+    color: #1a1a1a;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+
+
+
+  
+  .content {
+    position: relative;
+    width: 98%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .content .content-overlay {
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+  }
+  
+  .content:hover .content-overlay{
+    opacity: 1;
+  }
+  
+  .content-image{
+    width: 100%;
+  }
+  
+  .content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+  }
+  
+  .content:hover .content-details{
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+  }
+  
+  .content-details h3{
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+  }
+  
+  .content-details p{
+    color: #fff;
+    font-size: 0.8em;
+  }
+  
+  .fadeIn-bottom{
+    top: 80%;
+  }
+  
+  .fadeIn-top{
+    top: 20%;
+  }
+  
+  .fadeIn-left{
+    left: 20%;
+  }
+  
+  .fadeIn-right{
+    left: 80%;
+  }
+
+
+  .viewProjectBtnContactButton{
+    background-color: #172444;
+    position: absolute;
+    bottom: -16%;
+    right: 20%;
+    color: #fff;
+    padding: .5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+
+  .footerVisibilitySec{
+      visibility: hidden;
+  }
+
+
+
+
+
+
+  .contentImg {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .contentImg .content-overlay {
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+  }
+  
+  .contentImg:hover .content-overlay{
+    opacity: 1;
+  }
+  
+  .content-image{
+    width: 100%;
+  }
+  
+  .content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+  }
+  
+  .contentImg:hover .content-details{
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+  }
+  
+  .content-details h3{
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+  }
+  
+  .content-details p{
+    color: #fff;
+    font-size: 0.8em;
+  }
+
+  .pds{
+      padding: 0;
+  }
+
+  .rightTextSection p{
+    font-size: 1.4em;
+    padding: 1.2rem;
+    text-align: center;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-bottom: 0;
+  }
+
+  .rightHeaderText{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+
+  .textHeaderContent{
+    font-size: 3em;
+  }
+
+  .rightHeaderText img{
+    height: 58px;
+    margin-left: 1rem;
+  }
+
+ .rightIconImageSection{
+     width: 20%;
+ }
+
+ .desktopSectionImage{
+    display: block;
+ }
+
+ .mobileResolutionImage{
+    display: none;
+}
+
+.investorSectionWraper h4{
+    font-size: 6em;
+    text-align: center;
+    color: #172444;
+    line-height: 88px;
+    font-weight: 600;
+}
+
+.investorSectionWraperSub{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.investorSectionWraperSub h5{
+    font-size: 2em;
+    text-align: center;
+    color: #172444;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.textCenterSection{
+    padding-top: 3rem;
+}
+
+.textCenterSectionone{
+    padding-top: 6rem;
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
+
+    .verticalAlignCenter {
+        display: block !important;
+    }
+
+    .textCenterSectionone{
+        padding-top: 0rem;
+    }
+
+    .textCenterSection {
+        padding-top: 0rem;
+    }
+
+    .rightTextSection p {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .investorSectionWraper h4 {
+        font-size: 4em;
+        line-height: 59px;
+        padding-top: 2rem;
+    }
+
+    .investorSectionWraperSub h5 {
+        font-size: 1.8em;
+        line-height: 30px;
+    }
+
+    .desktopSectionImage{
+        display: none;
+    }
+
+    .mobileResolutionImage{
+        display: block;
+    }
+
+    .rightHeaderText {
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+
+    .textHeaderContent {
+        font-size: 2.3em;
+    }
+
+    .rightHeaderText img {
+        height: 43px;
+    }
+
+    .mobileResolutionPdsBtm{
+        padding-bottom: 4rem;
+    }
+
+
+
+
+
+    .contactUs{
+        width: 30%;
+    }
+    .videoButton img {
+        width: 15%;
+    }
+    .secHeight{
+        height: auto;
+    }
+    .marginBottomSec{
+        margin-bottom: 4rem;
+    }
+    .snapmoneySection{
+        width:100%;
+        margin: 0rem;
+        margin-bottom: 2rem;
+    }
+
+
+
+
+    .footerSectionWraper{
+        width: 92%;
+        text-align: left;
+    }
+
+    .carousel-item{
+        width: 100% !important;
+    }
+
+    .backgroundImageSectionWrapper{
+        background-size: contain !important;
+    }
+
+    .nextVideoSection {
+        bottom: 23%;
+        right: 18%;
+    }
+
+    .nextVideoSectionSecond {
+        bottom: 20%;
+        left: 17%;
+    }
+
+    .footerBannerWraper{
+        background-size: contain !important;
+    }
+
+    .viewProjectBtnContactButton {
+        bottom: 16%;
+        right: 30%;
+    }
+
+    .footerVisibilitySec{
+        visibility: hidden;
+    }
+
+
+    .videoButtonWrapperSecond img {
+        width: 24%;
+        top: 20%;
+        right: 13%;
+        /* opacity: 0; */
+    }
+
+    .videoButtonWrapper img {
+        width: 16%;
+        position: absolute;
+        top: 33%;
+        left: 17.5%;
+        /* opacity: 0; */
+    }
+
+
+    .mobileResolutionPara{
+        padding: 1rem;
+    }
+
+    .mobileResolutionPara p{
+        font-size: 1.2em;
+    }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
+
+    .verticalAlignCenter {
+        display: block !important;
+    }
+
+    .textCenterSectionone{
+        padding-top: 0rem;
+    }
+
+    .textCenterSection {
+        padding-top: 0rem;
+    }
+
+    .rightTextSection p {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+
+
+
+
+
+    .videoButton img {
+        width: 6%;
+    }
+    .secHeight{
+        height: auto;
+    }
+    .marginBottomSec{
+        margin-bottom: 4rem;
+    }
+    .snapmoneySection{
+        width:calc((100% / 2) - 15px);
+        margin: 0rem;
+        margin-bottom: 2rem;
+    }
+    .snapmoneyWrapper{
+        text-align: justify;
+    }
+
+
+
+    .footerSectionWraper{
+        width: 92%;
+        text-align: left;
+    }
+
+    .backgroundImageSectionWrapper{
+        background-size: contain !important;
+    }
+
+    .nextVideoSection {
+        bottom: 12%;
+    }
+
+    .nextVideoSectionSecond {
+        bottom: 10%;
+    }
+
+    .hoverImagePlay{
+        width: 100%
+    }
+
+    .footerBannerWraper{
+        background-size: contain !important;
+    }
+
+    .viewProjectBtnContactButton {
+        bottom: 10%;
+        right: 20%;
+    }
+
+    .videoButtonWrapper img {
+        width: 16%;
+        position: absolute;
+        top: 11%;
+        left: 0;
+        left: 17.5%;
+    }
+
+    .videoButtonWrapperSecond img {
+        width: 16%;
+        position: absolute;
+        top: 10%;
+        right: 17%;
+        /* opacity: 0; */
+    }
+
+
+
+
+
+
+    .desktopSectionImage{
+        display: none;
+    }
+
+    .mobileResolutionImage{
+        display: block;
+    }
+
+    .rightHeaderText {
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+
+    .textHeaderContent {
+        font-size: 2.3em;
+    }
+
+    .rightHeaderText img {
+        height: 43px;
+    }
+
+    .mobileResolutionPdsBtm{
+        padding-bottom: 4rem;
+    }
+
+    
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+
+    .videoContentSection{
+        width: 100%;
+    }
+
+    .verticalAlignCenter {
+        display: block !important;
+    }
+
+    .textCenterSectionone{
+        padding-top: 0rem;
+    }
+
+    .textCenterSection {
+        padding-top: 0rem;
+    }
+
+    .rightTextSection p {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+
+
+    .contactUs{
+        width: 25%;
+    }
+    .videoButton img {
+        width: 8%;
+    }
+    /* .secHeight{
+        height: auto;
+    } */
+    .marginBottomSec{
+        margin-bottom: 4rem;
+    }
+    .socialIconWrapper{
+        width: 500px
+    }
+    .snapmoneySection{
+        width:calc((100% / 2) - 15px);
+        margin: 0rem;
+        margin-bottom: 2rem;
+    }
+    .snapmoneyWrapper{
+        text-align: justify;
+    }
+
+
+    .footerSectionWraper{
+        width: 92%;
+        text-align: left;
+    }
+
+    .backgroundImageSectionWrapper{
+        background-size: contain !important;
+        height: auto;
+    }
+    .nextVideoSection {
+        top: 60%;
+    }
+    .nextVideoSectionSecond {
+        top: 60%;
+    }
+
+    .footerBannerWraper{
+        background-size: contain !important;
+    }
+
+
+
+    .videoButtonWrapper img {
+        width: 20%;
+        position: absolute;
+        top: -6%;
+        left: 13.5%;
+        /* opacity: 0; */
+    }
+
+    .videoButtonWrapperSecond img {
+        width: 22%;
+        position: absolute;
+        top: -27%;
+        right: 13%;
+        /* opacity: 0; */
+    }
+
+    .textHeaderContent {
+        font-size: 2.3em;
+    }
+
+    .rightHeaderText img {
+        height: 48px;
+    }
+
+    .investorSectionWraper h4 {
+        font-size: 2em;
+        line-height:0px;
+        padding-top: 2rem;
+    }
+
+    .investorSectionWraperSub h5 {
+        font-size: 1.4em;
+        padding: 1rem;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    .textCenterSectionone{
+        padding-top: 0rem;
+    }
+
+    .textCenterSection {
+        padding-top: 1rem;
+    }
+
+    .rightTextSection p {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+
+    .videoButton img {
+        width: 8%;
+    }
+    .marginBottomSec{
+        margin-bottom: 4rem;
+    }
+    /* .secHeight{
+        height: auto;
+    } */
+    .socialIconWrapper{
+        width: 500px
+    }
+    .snapmoneySection{
+        width:calc((100% / 3) - 20px);
+        margin: 0rem;
+        margin-left: 1.1rem;
+    }
+    .snapmoneyWrapper{
+        text-align: center;
+    }
+
+    
+    .backgroundImageSectionWrapper{
+        background-size: contain !important;
+    }
+
+    .nextVideoSection {
+        top: 69%;
+    }
+    .nextVideoSectionSecond {
+        top: 69%;
+    }
+
+    .footerBannerWraper{
+        background-size: contain !important;
+    }
+
+    .videoButtonWrapperSecond img {
+        width: 16%;
+        position: absolute;
+        bottom: auto;
+        top: 31%;
+        right: 17%;
+    }
+
+    .investorSectionWraper h4 {
+        font-size: 2em;
+        line-height:0px;
+        padding-top: 2rem;
+    }
+
+    .investorSectionWraperSub h5 {
+        font-size: 1.4em;
+        padding: 1rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .snapmoneySection{
+        width:calc((100% / 3) - 20px);
+        margin: 0rem;
+        margin-left: 1.1rem;
+    }  
+}
+
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .backgroundImageSectionWrapper{
+        background-size: contain !important;
+    }
+    .videoButtonWrapper img {
+        width: 17%;
+        position: absolute;
+        bottom: auto;
+        top: 103%;
+        left: 13%;
+    }
+
+    .videoButtonWrapperSecond img {
+        width: 18%;
+        position: absolute;
+        top: 79%;
+        right: 12%;
+        /* opacity: 0; */
+    }
+    
+    .nextVideoSection {
+        top: 69%;
+    }
+    .nextVideoSectionSecond {
+        top: 69%;
+    }
+}
+
+
+@media only screen 
+  and (min-width: 1400px) 
+  and (max-width: 1600px) 
+  and (orientation: landscape){
+    
+
+    .downArrowSection {
+        font-size: 86px;
+    }
+
+    .hoverImagePlay{
+        width: 100%
+    }
+
+    .viewProjectBtnContactButton {
+        bottom: -21%;
+        right: 20%;
+    }
+
+
+
+    .videoButtonWrapper img {
+        width: 19%;
+        position: absolute;
+        bottom: auto;
+        top: 67%;
+        left: 7%;
+    }
+
+
+    .videoButtonWrapperSecond img {
+        width: 21%;
+        position: absolute;
+        top: 51%;
+        right: 4%;
+        /* opacity: 0; */
+    }
+
+    .rightTextSection p {
+        font-size: 2em;
+    }
+}
+
+@media only screen 
+  and (min-width: 1601px) 
+  and (max-width: 2500px) 
+  and (orientation: landscape){
+    .videoButtonWrapper img {
+        width: 22%;
+        position: absolute;
+        bottom: auto;
+        top: 55%;
+        left: 1%;
+    }
+    .videoButtonWrapperSecond img {
+        width: 22%;
+        position: absolute;
+        top: 37%;
+        right: 2%;
+        /* opacity: 0; */
+    }
+    .downArrowSection {
+        font-size: 86px;
+    }
+    .footerBannerWraper{
+        background-size: cover !important;
+    }
+
+    .viewProjectBtnContactButton {
+        bottom: -33%;
+        right: 13%;
+    }
+
+    .hoverImagePlay{
+        width: 100%
+    }
+    .nextVideoSectionSecond {
+        top: 72%;
+    }
+}
+
+@media only screen 
+  and (min-width: 1600px){
+    .textCenterSection {
+        padding-top: 6rem;
+    }
+
+    .textCenterSectionone{
+        padding-top: 10rem;
+    }
+
+    .textCenterSectionTwo{
+        padding-top: 6rem;
+    }
+  }
+
+  @media only screen 
+  and (min-width: 1920px){
+    .textCenterSection {
+        padding-top: 11rem;
+    }
+
+    .rightTextSection p {
+        font-size: 2em;
+    }
+    
+    /* .textCenterSectionTwo{
+        padding-top: 11rem;
+    }
+
+    .textCenterSectionone{
+        padding-top: 14rem;
+    } */
+
+
+    .secondImageSection {
+        background-size: auto !important;
+        background-position: 70% 51% !important;
+    }
+
+  }
+
+@media only screen 
+  and (min-width: 1600px) 
+  and (max-width: 1920px){
+    .rightsideSectionWraper{
+        padding: 3rem;
+        padding-top: 6rem;
+    }
+  }
+
+
+  .firstSlider{
+    background-position: 48% 98% !important;
+  }
+
+  .verticalAlignCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+
+.firstImageSection{
+    clip-path: polygon(0 0, 100% 0, 72% 100%, 0% 100%);
+	width: 40%;
+	height: 430px;
+	display: inline-block;;background-size: cover;
+    background-position: right;    
+    border: 1px solid transparent;
+    transition: all 0.5s
+}
+
+.secondImageSection{
+    clip-path: polygon(25% 0%, 100% 0%, 80% 100%, 0% 100%);
+	width: 45%;
+	height: 430px;
+	display: inline-block;
+	position: absolute;
+    left: 29%;
+    background-size: cover;
+    background-position: right;    
+    border: 1px solid transparent;
+    transition: all 0.5s
+}
+
+.thirdImageSection{
+    clip-path: polygon(25% 0%, 100% 0%, 102% 100%, 0% 100%);
+	width: 35%;
+	height: 430px;
+	display: inline-block;
+	position: absolute;
+    right: 1%;
+    background-size: cover;
+    background-position: 86%;    
+    border: 1px solid transparent;
+    transition: all 0.5s
+}
+
+/* .firstImageSection:hover {
+    box-shadow: 0 20px 60px -6px rgba(0,0,0,0.5);
+    -webkit-transform: translateY(-3px);
+    -moz-transform: translateY(-3px);
+    -ms-transform: translateY(-3px);
+    -o-transform: translateY(-3px);
+    transform: translateY(-42px);
+}
+
+.secondImageSection:hover {
+    box-shadow: 0 20px 60px -6px rgba(0,0,0,0.5);
+    -webkit-transform: translateY(-3px);
+    -moz-transform: translateY(-3px);
+    -ms-transform: translateY(-3px);
+    -o-transform: translateY(-3px);
+    transform: translateY(-42px);
+}
+
+.thirdImageSection:hover {
+    box-shadow: 0 20px 60px -6px rgba(0,0,0,0.5);
+    -webkit-transform: translateY(-3px);
+    -moz-transform: translateY(-3px);
+    -ms-transform: translateY(-3px);
+    -o-transform: translateY(-3px);
+    transform: translateY(-42px);
+} */
+
+
+
+
+
+/* make keyframes that tell the start state and the end state of our object */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+  opacity:0;  /* make things invisible upon start */
+  -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+
+.fade-in.one {
+  -webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+
+.fade-in.two {
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay:2s;
+  animation-delay: 2s;
+}
+
+.fade-in.three {
+  -webkit-animation-delay: 3s;
+  -moz-animation-delay: 3s;
+  animation-delay: 3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* jssor slider loading skin spin css */
+.jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+
+
+.jssorb101 .i {position:absolute;cursor:pointer;}
+.jssorb101 .i .ci {fill:#000;}
+.jssorb101 .i .co {fill:#fff;opacity:.3;}
+.jssorb101 .i:hover .co {fill:#ff9933;opacity: 1;}
+.jssorb101 .i:hover .ci {fill:#fff;}
+.jssorb101 .iav .ci {fill:#fff;stroke-width:0;}
+.jssorb101 .iav .co {fill:#46d1d3;opacity: 1;}
+.jssorb101 .i.idn {opacity:.3;}
+
+.jssora051 {display:block;position:absolute;cursor:pointer;}
+.jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+.jssora051:hover {opacity:.8;}
+.jssora051.jssora051dn {opacity:.5;}
+.jssora051.jssora051ds {opacity:.3;pointer-events:none;}
